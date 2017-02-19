@@ -13,11 +13,10 @@ headercolor: "#FFFFFF"
 logo: img/logos/jaemin-background2.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+github_username:  shinjja
+project_repository: shinjja.github.io
+g-analytics: 000
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
