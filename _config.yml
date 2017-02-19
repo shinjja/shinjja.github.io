@@ -10,7 +10,7 @@ url: "https://shinjja.github.io"
 baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: img/logos/jaemin-background2.png
+# logo: img/logos/jaemin-background2.png
 
 # Tertiary Parameters
 github_username:  shinjja
